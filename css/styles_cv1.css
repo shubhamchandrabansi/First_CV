@@ -1,0 +1,36 @@
+.right{
+    text-align: right;
+}
+h1{
+    font-size: 28px;
+}
+h2{
+    font-size: 20px;
+}
+
+.head_dis
+{
+    text-align: center;
+    background-color: white ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(7, 108, 190);
+    font-weight:500;
+    text-decoration: underline;
+}
+
+body
+{
+    background-color: rgb(246, 254, 255);
+    font-family:Arial, Helvetica, sans-serif;
+    border: black;
+    border-width: 8px;
+    border-style:ridge;
+    padding: 10px;
+}
+table{
+    width: 100%;
+}
+
+td{
+    width: 50%;
+}
